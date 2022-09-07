@@ -9,9 +9,7 @@ package edu.uqu.cs;
  * 4. Before submiting your code, modify the text “Hello World” to “Hello: <Name>, <Student ID>” in App.java
  *      a.	Change <Name> to your name
  *      b.	Change <Student ID> to your student ID
- *
  */
-
  
 class FirstExercise
 {
